@@ -19,11 +19,11 @@ TESLA_PW_TIMEZONE="Australia/Melbourne"
 
 ### Step 3. 
 Build the docker container
-`docker build -t powerwallStats .`
+`docker build -t powerwallstats .`
 
 ### Step 4. 
 Run the docker container
-`docker run -t powerwallStats`
+`docker run -t powerwallstats`
 
 ## Credits and References
 pyPowerwall - https://github.com/jasonacox/pypowerwall
