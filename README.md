@@ -9,7 +9,7 @@ This docker container uses the excellent pyPowerwall repo (https://github.com/ja
 Clone this repo.  
 
 ### Step 2. 
-Create .env file to store credentials       
+Create `.env` file in folder `powerwallStats` to store credentials       
 ```python
 TESLA_PW_HOST="192.168.20.25"  
 TESLA_PW_EMAIL="customer.name@gmail.com"   
