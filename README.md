@@ -4,6 +4,10 @@ Docker container to interface with Tesla Energy Gateway for Powerwall Stats
 ## Description
 This docker container uses the excellent pyPowerwall repo (https://github.com/jasonacox/pypowerwall) to produce statistics and troubleshooting information for Tesla powerwall batteries.
 
+## Prerequisites
+
+docker, docker-compose
+
 ## Build 
 
 Create `.env` file in folder `powerwallStats` to store credentials       
